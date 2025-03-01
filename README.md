@@ -1,3 +1,4 @@
 # Trashbin-demo
-this is my first git repository
-Author- sagar bhore
+this is my first git repository.
+<br>
+Author- Sagar bhore
